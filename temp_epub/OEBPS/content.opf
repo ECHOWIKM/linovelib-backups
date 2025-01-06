@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookId" version="2.0">
+  <metadata>
+    <dc:identifier id="bookId">e9c03e00-758e-11ee-84cc-9f4e1fe3e379</dc:identifier>
+    <dc:language>zh-CN</dc:language>
+    <dc:title>我的妹妹哪有这么可爱 第十六卷 黑猫if 下</dc:title>
+    <dc:creator>伏见司</dc:creator>
+    <meta name="cover" content="cover-image"/>
+  </metadata>
+  <manifest>
+    <item id="cover-image" href="images/193133.jpg" media-type="image/jpeg"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="images\193133.jpg" href="images/193133.jpg" media-type="image/jpeg"/>
+    <item id="images\193134.jpg" href="images/193134.jpg" media-type="image/jpeg"/>
+    <item id="images\193135.jpg" href="images/193135.jpg" media-type="image/jpeg"/>
+    <item id="images\193136.jpg" href="images/193136.jpg" media-type="image/jpeg"/>
+    <item id="images\193137.jpg" href="images/193137.jpg" media-type="image/jpeg"/>
+    <item id="images\193138.jpg" href="images/193138.jpg" media-type="image/jpeg"/>
+    <item id="images\193139.jpg" href="images/193139.jpg" media-type="image/jpeg"/>
+    <item id="images\193140.jpg" href="images/193140.jpg" media-type="image/jpeg"/>
+    <item id="images\193141.jpg" href="images/193141.jpg" media-type="image/jpeg"/>
+    <item id="images\193142.jpg" href="images/193142.jpg" media-type="image/jpeg"/>
+    <item id="images\193143.jpg" href="images/193143.jpg" media-type="image/jpeg"/>
+    <item id="images\193144.jpg" href="images/193144.jpg" media-type="image/jpeg"/>
+    <item id="images\193145.jpg" href="images/193145.jpg" media-type="image/jpeg"/>
+    <item id="images\193146.jpg" href="images/193146.jpg" media-type="image/jpeg"/>
+    <item id="images\193147.jpg" href="images/193147.jpg" media-type="image/jpeg"/>
+    <item id="images\193148.jpg" href="images/193148.jpg" media-type="image/jpeg"/>
+    <item id="images\193149.jpg" href="images/193149.jpg" media-type="image/jpeg"/>
+    <item id="images\193150.jpg" href="images/193150.jpg" media-type="image/jpeg"/>
+    <item id="images\193151.jpg" href="images/193151.jpg" media-type="image/jpeg"/>
+    <item id="images\193139.jpg" href="images/193139.jpg" media-type="image/jpeg"/>
+    <item id="images\193140.jpg" href="images/193140.jpg" media-type="image/jpeg"/>
+    <item id="images\193141.jpg" href="images/193141.jpg" media-type="image/jpeg"/>
+    <item id="images\193142.jpg" href="images/193142.jpg" media-type="image/jpeg"/>
+    <item id="images\193143.jpg" href="images/193143.jpg" media-type="image/jpeg"/>
+    <item id="images\193144.jpg" href="images/193144.jpg" media-type="image/jpeg"/>
+    <item id="images\193145.jpg" href="images/193145.jpg" media-type="image/jpeg"/>
+    <item id="images\193146.jpg" href="images/193146.jpg" media-type="image/jpeg"/>
+    <item id="images\193147.jpg" href="images/193147.jpg" media-type="image/jpeg"/>
+    <item id="images\193148.jpg" href="images/193148.jpg" media-type="image/jpeg"/>
+    <item id="images\193149.jpg" href="images/193149.jpg" media-type="image/jpeg"/>
+    <item id="images\193150.jpg" href="images/193150.jpg" media-type="image/jpeg"/>
+    <item id="images\193151.jpg" href="images/193151.jpg" media-type="image/jpeg"/>
+    <item id="chapter0001.xhtml" href="chapter0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter0002.xhtml" href="chapter0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter0003.xhtml" href="chapter0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter0004.xhtml" href="chapter0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter0005.xhtml" href="chapter0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter0006.xhtml" href="chapter0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter0007.xhtml" href="chapter0007.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter0001.xhtml"/>
+    <itemref idref="chapter0002.xhtml"/>
+    <itemref idref="chapter0003.xhtml"/>
+    <itemref idref="chapter0004.xhtml"/>
+    <itemref idref="chapter0005.xhtml"/>
+    <itemref idref="chapter0006.xhtml"/>
+    <itemref idref="chapter0007.xhtml"/>
+  </spine>
+</package>
